@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-13 12:08:44,http://74.91.26.218:82/live/cctv4hd.m3u8
+2026-03-16 12:38:17,http://74.91.26.218:82/live/cctv4hd.m3u8
 
 📺央视频道,#genre#
 CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
@@ -60,6 +60,7 @@ CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
 ☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
+厦门卫视,http://125.42.150.214:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️海南频道,#genre#
 
@@ -107,7 +108,6 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-金鹰卡通,http://221.13.235.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎮游戏频道,#genre#
 
