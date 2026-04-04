@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-01 12:45:04,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
+2026-04-04 12:13:21,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
@@ -20,8 +20,8 @@ CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 北京卫视,http://111.56.90.5/000000000000/1000000005000265027/1.m3u8
 湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
-重庆卫视,http://111.56.90.5/000000000000/1000000005000265017/1.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
+重庆卫视,http://111.56.90.5/000000000000/1000000005000265017/1.m3u8
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 广西卫视,http://107.150.60.122/live/gxwshd.m3u8
 广西卫视,http://111.56.90.5/000000000000/1000000002000019837/1.m3u8
@@ -29,8 +29,8 @@ CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 内蒙古卫视,http://111.56.90.5/000000000000/5559214655508729688/1.m3u8
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
-山西卫视,http://111.56.90.5/000000000000/5000000006000040023/1.m3u8
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+山西卫视,http://111.56.90.5/000000000000/5000000006000040023/1.m3u8
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
@@ -62,8 +62,8 @@ CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 ☘️江苏频道,#genre#
 苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 
 ☘️湖南频道,#genre#
 
@@ -89,9 +89,6 @@ CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 
 ☘️甘肃频道,#genre#
-嘉峪关综合,http://play.kankanlive.com/live/1720583434627241.m3u8
-张掖新闻综合,https://play.kankanlive.com/live/1720583434627241.m3u8
-永昌综合,http://play.kankanlive.com/live/1720408280309109.m3u8
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 
 ☘️新疆频道,#genre#
