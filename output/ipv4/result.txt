@@ -1,12 +1,12 @@
 🕘️更新时间,#genre#
-2026-04-04 12:13:21,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
+2026-04-07 12:31:07,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
 CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
-CCTV-5+,http://111.56.90.5/000000000000/1000000005000265016/1.m3u8
 CCTV-5+,http://111.56.90.5/000000000000/1000000001000020505/1.m3u8
+CCTV-5+,http://111.56.90.5/000000000000/1000000005000265016/1.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 
@@ -31,8 +31,8 @@ CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 山西卫视,http://111.56.90.5/000000000000/5000000006000040023/1.m3u8
-陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
@@ -62,8 +62,8 @@ CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 ☘️江苏频道,#genre#
 苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 
 ☘️湖南频道,#genre#
 
@@ -117,6 +117,8 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
+金鹰卡通,http://101.66.195.172:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://101.66.195.146:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🎮游戏频道,#genre#
 
