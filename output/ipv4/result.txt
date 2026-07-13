@@ -1,18 +1,15 @@
 🕘️更新时间,#genre#
-2026-07-10 13:59:16,http://183.129.255.66:8480/hls/6/index.m3u8
+2026-07-13 13:33:18,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
-CCTV-5+,http://183.129.255.66:8480/hls/6/index.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📡卫视频道,#genre#
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-吉林卫视,http://223.75.149.129:9906/tsfile/live/0116_1.m3u8?key=txiptv
 
 ☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
-嘉兴新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 
 ☘️北京频道,#genre#
 北京新闻,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
@@ -25,7 +22,6 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
-苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
@@ -45,11 +41,9 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 ☘️海南频道,#genre#
 
 ☘️河南频道,#genre#
-梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
 河南都市,http://1.94.31.214/php/hntv.php?id=hnds
 
 ☘️河北频道,#genre#
-邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 
 ☘️新疆频道,#genre#
 
@@ -63,8 +57,6 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 ☘️黑龙江频道,#genre#
 
 🌊港·澳·台,#genre#
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
